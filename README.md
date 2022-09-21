@@ -287,7 +287,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/zoearen/learn-git-milestones/commit/90cfc6c15ecee35b20ac594423132560050ba987)
 2c | Full path to your working directory | /Users/zoeren/Sites/dig245-critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/zoearen/learn-git-milestones/commit/bf2d0c09d16e239c31cb925c7a221d6ce24af5d8)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji |:no_mouth:
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
