@@ -285,7 +285,7 @@ Item # | Description | Completed
 1d | What does `log` do? | 'log' shows commit logs
 2a | 2nd Favorite emoji |:ramen:
 2b | Link to `commit #2 from Github Desktop` | [link to commit #2](https://github.com/zoearen/learn-git-milestones/commit/90cfc6c15ecee35b20ac594423132560050ba987)
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/zoeren/Sites/dig245-critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
