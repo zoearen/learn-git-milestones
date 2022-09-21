@@ -281,7 +281,7 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | <meta charset="UTF-8"> <p>&#128511;</p>
 1b | Link to `commit #1 from Github.com` | [link to commit #1](https://github.com/omundy/learn-git-milestones/commit/efe13bc310f5727649c3461d0a20df0d549ce0ab)
-1c | Link to markdown tables docs |
+1c | Link to markdown tables docs |[Extra resource for markdown tables] https://markdown.land/markdown-table
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
