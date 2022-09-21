@@ -290,7 +290,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji |:no_mouth:
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/zoearen/learn-git-milestones/commit/97f6e3e398800e3ddec7f3db80a43fd3fcb4c5c3)
 3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project repo](https://github.com/zoearen/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" | [my-awesome-project @ github.io](https://zoearen.github.io/my-awesome-project/index.html/)
+4a | Link to `my-awesome-project` github.io "project site" | [my-awesome-project @ github.io](https://zoearen.github.io/my-awesome-project/index.html)
 
 
 
