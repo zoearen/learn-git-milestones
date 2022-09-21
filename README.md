@@ -280,13 +280,13 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | <meta charset="UTF-8"> <p>&#128511;</p>
-1b | Link to `commit #1 from Github.com` | [link to commit #1](https://github.com/omundy/learn-git-milestones/commit/efe13bc310f5727649c3461d0a20df0d549ce0ab)
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/efe13bc310f5727649c3461d0a20df0d549ce0ab)
 1c | Link to markdown tables docs |[Extra resource for markdown tables](https://markdown.land/markdown-table)
 1d | What does `log` do? | 'log' shows commit logs
 2a | 2nd Favorite emoji |:ramen:
-2b | Link to `commit #2 from Github Desktop` | [link to commit #2](https://github.com/zoearen/learn-git-milestones/commit/90cfc6c15ecee35b20ac594423132560050ba987)
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/zoearen/learn-git-milestones/commit/90cfc6c15ecee35b20ac594423132560050ba987)
 2c | Full path to your working directory | /Users/zoeren/Sites/dig245-critical-web-design/learn-git-milestones
-2d | Link to `commit #3 from CLI` |
+2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/zoearen/learn-git-milestones/commit/bf2d0c09d16e239c31cb925c7a221d6ce24af5d8)
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
