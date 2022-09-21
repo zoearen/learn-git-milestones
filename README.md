@@ -279,7 +279,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-1a | 1st Favorite emoji | <meta charset="UTF-8"> <p>&#128511;</p>
+1a | 1st Favorite emoji | <meta charset="UTF-8"> :weary:
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/efe13bc310f5727649c3461d0a20df0d549ce0ab)
 1c | Link to markdown tables docs |[Extra resource for markdown tables](https://markdown.land/markdown-table)
 1d | What does `log` do? | 'log' shows commit logs
@@ -288,7 +288,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/zoeren/Sites/dig245-critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/zoearen/learn-git-milestones/commit/bf2d0c09d16e239c31cb925c7a221d6ce24af5d8)
 2e | 3rd Favorite emoji |:no_mouth:
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/zoearen/learn-git-milestones/commit/97f6e3e398800e3ddec7f3db80a43fd3fcb4c5c3)
 3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project repo](https://github.com/zoearen/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" | [my-awesome-project @ github.io](https://zoearen.github.io/my-awesome-project/)
 
